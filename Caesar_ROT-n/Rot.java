@@ -2,6 +2,7 @@ public abstract class Rot {
 	
 	/**
 	 * Encryption and decryption utilizing the ROT-n cipher.
+	 * Case sensitive and supports special characters but only encrypts letters.
 	 * 
 	 * @Version 1.0
 	 * @author Sami

@@ -1,6 +1,6 @@
 # Kryptographie
 
-Sammlung von Implementierung von Verschlüsselungen.
+Sammlung von Implementierungen von Ent-/Verschlüsselungen.
 
 Liste:
 

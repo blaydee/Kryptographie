@@ -11,4 +11,4 @@ Sammlung von Implementierungen von Ent-/Verschlüsselungen.
 * Playfair (TODO)
 * Hash (TODO)
 
-Commits verden im Moment von [Bryan](https://github.com/bryanboateng) und [Sami](https://github.com/TheCookieOfDoom) administriert.
+Commits werden im Moment von [Bryan](https://github.com/bryanboateng) und [Sami](https://github.com/TheCookieOfDoom) administriert.
